@@ -23,7 +23,7 @@ Semantic and meta tags are used. SEO optimization is done. Accessibility is impr
 
 *see google lighthouse report below*
 
-![REPORT](./src/images/gh-report/lighthouse-report.png)
+![REPORT](./src/images/gh-report/lighthouse-report.PNG)
 
 # Reflections
 
